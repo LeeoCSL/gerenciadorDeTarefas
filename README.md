@@ -6,23 +6,30 @@ Aplicativo de gerenciamento de tarefas desenvolvido em **React Native com TypeSc
 
 ## Como rodar o projeto
 
+### 1. Clone o repositório
+
 ```bash
-# 1. Clone o repositório
 git clone https://github.com/LeeoCSL/gerenciadorDeTarefas.git
 cd gerenciadorDeTarefas
-
-# 2. Instale as dependências
-yarn install
-
-# 3. Inicie o Metro Bundler
-yarn start
-
-# 4. Em outro terminal, execute o app no Android
-yarn android
-
 ```
 
----
+### 2. Instale as dependências
+
+```bash
+yarn install
+```
+
+### 3. Inicie o Metro Bundler
+
+```bash
+yarn start
+```
+
+### 4. Em outro terminal, execute o app no Android
+
+```bash
+yarn android
+```
 
 ## Decisões Técnicas
 
